@@ -41,7 +41,7 @@ This will load the necessary `.pkl` files (such as the model, scalers, and encod
 
 ## Summary of Preprocessing Steps in Machine Learning
 
-In our machine learning project, we undertook several critical preprocessing steps to prepare our dataset for training. 
+In my machine learning project, I undertook several critical preprocessing steps to prepare our dataset for training. 
 
 ### Preprocessing Steps Taken
 
